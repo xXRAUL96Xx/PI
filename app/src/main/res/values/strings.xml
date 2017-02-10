@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ProyectoIntegrador</string>
+    <string name="action_settings">Salir</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="auth_failed">Error!</string>
+    <string name="email">email</string>
+    <string name="pass">password</string>
+    <string name="loggin">Loggin</string>
+    <string name="register">Registrarse</string>
+    <string name="regist_email">Error</string>
+
+    <string name="TabPublicar">Publicar</string>
+    <string name="TabPublicar_origen">Origen</string>
+    <string name="TabPublicar_destino">Destino</string>
+    <string name="TabPublicar_fecha">Fecha</string>
+    <string name="TabPublicar_hora">Hora</string>
+    <string name="TabPublicar_precio">Precio</string>
+</resources>

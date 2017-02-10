@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_splash"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorAccent"
+    tools:context="com.example.sergy.proyectointegrador.Splash_Screen">
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/titulo"
+        android:textStyle="bold"
+        android:layout_marginTop="96dp"
+        android:id="@+id/subtitulo"
+        tools:text="Car Sharing app"
+        android:textSize="40sp"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="93dp"
+        android:id="@+id/titulo"
+        android:layout_alignParentTop="true"
+        android:text="On the Road"
+        android:textAlignment="center"
+        android:textSize="80sp"
+        android:textStyle="italic"/>
+
+    <ImageView
+        android:layout_width="60sp"
+        android:layout_height="60sp"
+        android:src="@drawable/volante_splash"
+        android:id="@+id/imageView"
+        android:layout_marginTop="26dp"
+        android:layout_below="@+id/titulo"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

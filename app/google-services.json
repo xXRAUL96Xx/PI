@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1021214915762",
+    "firebase_url": "https://proyecto-integrador-72698.firebaseio.com",
+    "project_id": "proyecto-integrador-72698",
+    "storage_bucket": "proyecto-integrador-72698.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021214915762:android:f4953215af3963b9",
+        "android_client_info": {
+          "package_name": "com.example.sergy.proyectointegrador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021214915762-q0qvrf0kefurk3jj24ljoohbvmri709l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sergy.proyectointegrador",
+            "certificate_hash": "8DB7158AA61F9300D23BB7681946114E69E0E6A0"
+          }
+        },
+        {
+          "client_id": "1021214915762-c0qepho6pibjs6bu7uoik50vva0ismpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQm6YkxVZ0s2qzurb-U6AoTv5b96u4Vrg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021214915762-c0qepho6pibjs6bu7uoik50vva0ismpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
